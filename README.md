@@ -1,4 +1,4 @@
-# Ballon Model
+# Balloon Model
 MBSE MitX Week 2 project - Balloon modelling
 
 This script models the movement of a balloon filled with helium from the bottom
